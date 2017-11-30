@@ -1,2 +1,3 @@
 boot/*
 debian/uEnv.txt boot/
+debian/boot.cmd boot/
