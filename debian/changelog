@@ -1,0 +1,5 @@
+pine64-uboot (0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rohan Garg <rohan@garg.io>  Thu, 30 Nov 2017 17:11:01 +0100

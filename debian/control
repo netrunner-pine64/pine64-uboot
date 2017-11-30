@@ -1,0 +1,13 @@
+Source: pine64-uboot
+Section: misc
+Priority: optional
+Maintainer: Rohan Garg <rohan@garg.io>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/ayufan-pine64/pine64-uboot
+
+Package: pine64-uboot
+Architecture: arm64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: uboot binaries for Pine64
+ uboot binaries for pine64
