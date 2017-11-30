@@ -1,5 +1,5 @@
 console=ttyS0,115200n8 no_console_suspend
-kernel_filename=kernel
+kernel_filename=Image
 root=/dev/mmcblk0p1
 bootlogo=boot/bootlogo.bmp
 fdt_filename_prefix=boot/pine64/sun50i-a64-
